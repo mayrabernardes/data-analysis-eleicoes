@@ -1,0 +1,2 @@
+# ignore .csv files due to filesize that exceed the git limit
+*.csv
